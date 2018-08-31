@@ -1,5 +1,6 @@
 # Branding plugin 🎨
 [![Build Status](https://api.travis-ci.org/HuddleEng/branding-webpack-plugin.svg)](https://travis-ci.org/HuddleEng/branding-webpack-plugin/)
+[![NPM](https://nodei.co/npm/branding-webpack-plugin.png)](https://www.npmjs.com/package/branding-webpack-plugin)
 
 Use CSS custom properties to theme your app with fallbacks for browsers that don't support it (tested on IE11).
 
