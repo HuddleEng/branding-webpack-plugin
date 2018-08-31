@@ -1,0 +1,45 @@
+{
+  "name": "branding-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Cross platform theming with CSS variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/run.js",
+    "jest": "jest",
+    "webpack": "webpack",
+    "serve": "serve",
+    "serve-test": "node test/serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HuddleEng/branding-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "theming",
+    "css",
+    "branding"
+  ],
+  "author": "Mohamed Eltuhamy / Huddle",
+  "license": "MIT",
+  "dependencies": {
+    "cssnano": "^4.1.0",
+    "loader-utils": "^1.1.0",
+    "postcss": "^7.0.2",
+    "postcss-discard-duplicates": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^23.4.2",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.0",
+    "jest": "^23.5.0",
+    "jest-puppeteer": "^3.3.1",
+    "memory-fs": "^0.4.1",
+    "puppeteer": "^1.7.0",
+    "rimraf": "^2.6.2",
+    "serve": "^10.0.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
