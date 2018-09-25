@@ -1,6 +1,6 @@
 {
   "name": "branding-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cross platform theming with CSS variables",
   "main": "index.js",
   "scripts": {
